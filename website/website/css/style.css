@@ -1,0 +1,22 @@
+body {
+background-image: url("../img/fancy-cushion.jpg");
+}
+
+#main {
+background-color:DimGrey;
+font-family: 'Arial', sans-serif;
+border: 7px solid;
+border-color: darkred;
+padding: 0px 20px 20px 20px;
+width: 50%;
+height: auto;
+margin-left: 25%;
+margin-right: 25%;
+}
+h1 {
+text-align: center;
+text-shadow: 2px 2px violet;
+}
+figure {
+text-align: center;
+}
